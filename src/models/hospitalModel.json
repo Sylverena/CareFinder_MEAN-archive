@@ -1,0 +1,26 @@
+{
+	"provider_id" : "",
+	"hospital_name" : "",
+	"address" : "",
+	"city" : "",
+	"state" : "",
+	"zip_code" : "",
+	"county_name" : "",
+	"phone_number" : {
+		"_phone_number":""
+	},
+	"hospital_type" : "",
+	"hospital_ownership" : "",
+	"emergency_services" : false,
+	"location": {
+		"human_address" : {
+			"address":"",
+			"city":"",
+			"state":"",
+			"zip":""
+		},
+		"latitude" : "0",
+		"longitude" : "0",
+		"_needs_recording": false
+	}
+}
